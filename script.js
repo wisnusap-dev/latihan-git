@@ -1,1 +1,1 @@
-document.getElementById("ClickMe").addEventListener("click", function () {alert("Button clicked")});
+console.log("Selamat datang di Latihan Git!"); // Tambahkan pesan baru
